@@ -1,3 +1,7 @@
+html {
+  font-family: Overpass, sans-serif;
+}
+
 section {
   background-image: linear-gradient(to bottom, #ff5e3a, #ff9500);
   background-repeat: no-repeat;
@@ -5,12 +9,10 @@ section {
 }
 
 h1 {
-font-family: 'Overpass', sans-serif;
 color: #fff;
 }
 
 .btn {
-  font-family: 'Overpass', sans-serif;
   color: #fff;
 }
 
@@ -21,11 +23,9 @@ color: #fff;
 
 p {
   color: #fff;
-  font-family: 'Overpass', sans-serif;
 }
 
 h2 {
-  font-family: 'Overpass', sans-serif;
   text-decoration: none;
   color: #fff;
 }

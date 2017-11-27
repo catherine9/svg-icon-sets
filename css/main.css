@@ -1,0 +1,31 @@
+section {
+  background-image: linear-gradient(to bottom, #ff5e3a, #ff9500);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+font-family: 'Overpass', sans-serif;
+color: #fff;
+}
+
+.btn {
+  font-family: 'Overpass', sans-serif;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: #ff5e3a;
+}
+
+p {
+  color: #fff;
+  font-family: 'Overpass', sans-serif;
+}
+
+h2 {
+  font-family: 'Overpass', sans-serif;
+  text-decoration: none;
+  color: #fff;
+}

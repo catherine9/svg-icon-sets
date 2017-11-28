@@ -3,7 +3,7 @@ html {
 }
 
 section {
-  background-image: linear-gradient(to bottom, #ff5e3a, #ff9500);
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,8 +30,18 @@ h2 {
   color: #fff;
 }
 
+li:first-child,
+li:nth-child(2) {
+  border-bottom: 0;
+  border-right: 3px solid rgba(255, 255, 255, .4);
+}
+
 @media only screen and (min-width: 60em) {
 
+  li:first-child,
+  li:nth-child(2) {
+    border-bottom: 0;
+    border-right: 3px solid rgba(255, 255, 255, .4);
 
-
+  }
 }

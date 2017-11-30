@@ -21,6 +21,13 @@ h1 {
   color: #ff5e3a;
 }
 
+.btn-ghost {
+  text-decoration: none;
+  border: 3px solid #fff;
+  border-radius: 3px;
+  color: #fff;
+}
+
 p {
   color: #fff;
 }
